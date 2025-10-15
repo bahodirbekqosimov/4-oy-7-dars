@@ -1,1 +1,1 @@
-print("Hello world")
+from psycopg2 import connect
